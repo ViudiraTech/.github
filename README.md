@@ -7,7 +7,7 @@
 
 </br>
 
-ViudiraTech is an organization from China which created by some students. </br>
+ViudiraTech is an organization from China which created by a few students. </br>
 We make wonderful things, such as operating system kernel, AI, etc.</br>
 
 </br>
@@ -23,4 +23,11 @@ We make wonderful things, such as operating system kernel, AI, etc.</br>
 
 </br>
 
-You are the ![](https://profile-counter.glitch.me/ViudiraTech/count.svg) visitor.
+## Members
+![](https://github-readme-stats.vercel.app/api?username=FengHeting&show_icons=true&theme=dark) </br>
+![](https://github-readme-stats.vercel.app/api?username=Rainy101112&show_icons=true&theme=dark) </br>
+
+</br>
+
+## Thank you!
+You are the ![](https://profile-counter.glitch.me/ViudiraTech/count.svg) visitor!
